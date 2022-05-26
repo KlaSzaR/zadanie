@@ -1,0 +1,14 @@
+@media only screen and (max-width: 1200px){
+	.pic{
+max-width: 1500px;
+	}
+}
+
+@media only screen and (max-width: 992px){
+	.pic{
+ max-width: 100%;
+
+}
+	
+	
+}
